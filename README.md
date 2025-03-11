@@ -1,3 +1,6 @@
+Name : ROGHITH k
+Reg no : 212222040135
+
 # Ex-01-Linux-Commands
 
 
